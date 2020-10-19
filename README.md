@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-In this repository I mainly focus on data structure and algorithms problems
+In this repository I mainly focus on data structures and algorithms problems
